@@ -1,4 +1,4 @@
-package random;
+package org.example;
 
 class Node <K,V> {
     private final int hash;
